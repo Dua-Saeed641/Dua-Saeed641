@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dua Saeed</h1>
-<h3 align="center">Aspiring Data Engineer | BTech Student | Diploma with DS & Applications Student</h3>
+<h1 align="left">Hi, I'm Dua Saeed</h1>
+<h3 align="left">B.Tech CSE(3rd year) student at MDU<br>BS Data Science and Application diploma student at IIT Madras.</h3>
 
 - I’m currently working on **Hospital Management System using Flask framework.**
 
